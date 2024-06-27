@@ -1,5 +1,5 @@
 function showLoveMessage() {
-    const message = `OI MEU AMOoOoOoOoOoOoOoOoOor! Eu tE amo dEmais homi do céééééééu!! CASE COMIGOOOOOOOOOOO!`;
+    const message = `Feliz seu dia, meu amor!! Eu amo ocê demais, és o amor da minha vida, minha vida, meu universo, e tudo que há de melhor!! Você é incrível, engraçado, divertido, inteligente, lindão pra caramba, e várias outras outras coisas aí que se eu fosse falar nem caberia aqui. Na verdade não importa quantas linhas, palavras ou páginas eu use, nada nunca vai conseguir descrever o quão imenso é o meu amor e carinho que tenho para contigo. Você é excepcional, meu bem. Aproveita seu dia. Eu tE amo dEmais!`;
     document.getElementById('message').textContent = message;
 }
 
